@@ -1,0 +1,4 @@
+1. sector wise distribution - company wise - pie chart
+2. trading volumn - graph
+3. stock price of nifty 50 - line graph
+4. sector
